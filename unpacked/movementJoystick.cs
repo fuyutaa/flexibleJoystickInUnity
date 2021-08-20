@@ -12,11 +12,6 @@ public class MovementJoystick : MonoBehaviour
     public Vector2 joystickOriginalPos;
     public float joystickRadius;
 
-    // used for the acting function of the joystick
-    public bool isPointerDown;
-
-    public DialogueUI dialogueUI;
-
     void Start()
     {
         joystickOriginalPos = outerCircle.transform.position;
