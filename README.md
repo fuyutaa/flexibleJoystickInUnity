@@ -1,10 +1,5 @@
 # flexibleJoystickInUnity
 
-The math in other ones is poorly maded, new Vector2 resulting in going through walls, weirdly acting Collider2Ds...
-
-I looked at many tutorials (5-7~), but couldn't find a correct math solution, so here I am ^^
-
-
  You can define an area where the joystick can move. Not a static and boring joystick ;)
 
 For the joystick visuals, you can search in the asset store for "Joystick Pack", it's free.
